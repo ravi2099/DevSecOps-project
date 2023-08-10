@@ -223,7 +223,7 @@ path "secrets/creds/*" {
  Now you have to copy the content of your kubeconfig file of your cluster.
 for that -
 1. go to your home directory , you will find  ` .kube` 
-1. change your directory to .kube and cat your config file
+1. change your directory to .kube and cat your config file.
 
 You will find your kubeconfig like this 
 ```sh 
